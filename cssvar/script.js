@@ -7,3 +7,5 @@ function heandleUpdate()
 }
 inputs.forEach((input) =>{input.addEventListener('change',heandleUpdate)});
 inputs.forEach((input) =>{input.addEventListener('mousemove',heandleUpdate)});
+
+//create function sort array
